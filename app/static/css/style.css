@@ -3,10 +3,10 @@ th {
     text-align: left;
 }
 
-#addNames {
+div#addNames {
     margin: 50px 100px;
 }
 
-#seeNames {
+div#seeNames {
     margen: 100px;
 }
